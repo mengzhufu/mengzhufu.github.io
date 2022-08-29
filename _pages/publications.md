@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-* Witt, J. K., **Fu, M.**, & Dodd, M. D. Variability of object Locations is Overestimated (2022). <i>Attention, Perception, & Psychophysics</i>.
+* Witt, J. K., **Fu, M.**, & Dodd, M. D. (2022). Variability of object Locations is Overestimated. <i>Attention, Perception, & Psychophysics</i>.
 
 * **Fu, M.**, Miller, L.L. & Dodd, M. D. (2020). Examining the influence of different types of dynamic change in a visual search task. <i>Atten Percept Psychophys, 82</i>, 3329–3339. 
 
