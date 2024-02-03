@@ -14,18 +14,16 @@ I consider teaching to be a crucial aspect of an academic's responsibility. Beyo
 | ------------- | ----------------------------------- | 
 | PSY 325       | Psychology of Human Cognition       | 
 | PSY 301       | Experimental Psychology             |
-|        |                                            |
 
 
 ## Course Instructor & Teaching Assistant @ University of Nebraska - Lincoln
 
-|**Instructor**                                                                                    |
+|<td colspan=3>**Instructor**                                                                                    |
 |--------|------------------------------------|----------------------------------------------------|
 |PSYC 263|Introduction to Cognitive Processes |Summer 2017, 2019; Fall 2021; Spring 2022           |  
 |PSYC 463|Perception                          |Summer 2018                                         |
-|        |                                    |                                                    |
 
-|**Teaching Assistant**                                                                                     |
+|<td colspan=3>**Teaching Assistant**                                                                                     |
 |--------|---------------------------------------------------|----------------------------------------------|
 |PSYC 350|Research methods and Data Analysis (Lab instructor)|Spring 2018, Fall 2019, 2022                  |  
 |PSYC 181|Introduction to Psychology                         |Fall 2016                                     |
@@ -34,4 +32,3 @@ I consider teaching to be a crucial aspect of an academic's responsibility. Beyo
 |PSYC 289|Developmental Psychology                           |Spring 2018                                   |
 |PSYC 273|Brain and Behavior                                 |Summer 2022                                   |
 |PSYC 288|The Psychology of Social Behavior                  |Summer 2022                                   |
-|        |                                                   |                                              |
