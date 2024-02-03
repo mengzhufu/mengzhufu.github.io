@@ -18,12 +18,12 @@ I consider teaching to be a crucial aspect of an academic's responsibility. Beyo
 
 ## Course Instructor & Teaching Assistant @ University of Nebraska - Lincoln
 
-|<td colspan=3>**Instructor**                                                                                    |
+|**Instructor**                                                                                    |
 |--------|------------------------------------|----------------------------------------------------|
 |PSYC 263|Introduction to Cognitive Processes |Summer 2017, 2019; Fall 2021; Spring 2022           |  
 |PSYC 463|Perception                          |Summer 2018                                         |
 
-|<td colspan=3>**Teaching Assistant**                                                                                     |
+|**Teaching Assistant**                                                                                     |
 |--------|---------------------------------------------------|----------------------------------------------|
 |PSYC 350|Research methods and Data Analysis (Lab instructor)|Spring 2018, Fall 2019, 2022                  |  
 |PSYC 181|Introduction to Psychology                         |Fall 2016                                     |
