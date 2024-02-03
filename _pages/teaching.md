@@ -12,10 +12,10 @@ I consider teaching to be a crucial aspect of an academic's responsibility. Beyo
 
 | Course Number | Course Name                         |
 | ------------- | ----------------------------------- | 
-| Shippensburg University of Pennsylvania             |  
+| *Shippensburg University of Pennsylvania*             |  
 | PSY 325       | Psychology of Human Cognition       | 
 | PSY 301       | Experimental Psychology             |
-| University of Nebraska - Lincoln                    |
+| *University of Nebraska - Lincoln*                   |
 | PSYC 263      | Introduction to Cognitive Processes |
 | PSYC 463      | Perception                          |
 
